@@ -46,7 +46,7 @@ class App extends Component {
     );
     return (
       <div className="Phonebook_box">
-        <h1 className="Phonebook_title">Wizard's phonebook</h1>
+        <h1 className="Phonebook_title">Night City Phonrbook</h1>
         <ContactForm onSubmit={this.addContact} />
 
         <h2 className="Phonebook_second-title">Contacts</h2>
